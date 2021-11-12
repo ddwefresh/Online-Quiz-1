@@ -1,0 +1,24 @@
+html {
+	font-family: 'Gudea', sans-serif;
+	color: black;
+	background-image: url("https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg");
+
+	!background-color:cyan;
+}
+
+#title {
+	background-image: url("gradient.png");
+	color: white;
+}
+
+h3 {
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.questionB {
+	color: #5998bd;
+}
+
+.questionA {
+	color: #44719e;
+}
